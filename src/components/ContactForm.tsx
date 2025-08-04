@@ -66,7 +66,7 @@ ${formData.message}
             </div>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
               Ready to make a difference? Contact us to learn more about grant opportunities 
-              or to discuss how we can support your organization's mission.
+              for qualified 501(c)(3) tax-exempt organizations or to discuss how we can support your mission.
             </p>
           </div>
 
@@ -75,6 +75,7 @@ ${formData.message}
               <CardTitle className="text-2xl">Contact JOLTS Foundation</CardTitle>
               <CardDescription>
                 We'd love to hear from you. Send us a message and we'll respond as soon as possible.
+                <strong className="block mt-2 text-primary">Grant eligibility is limited to 501(c)(3) tax-exempt organizations.</strong>
               </CardDescription>
             </CardHeader>
             <CardContent>
@@ -139,7 +140,7 @@ ${formData.message}
                   <Label htmlFor="message">Message *</Label>
                   <Textarea
                     id="message"
-                    placeholder="Tell us about your organization, project, or inquiry. For grant proposals, please include details about your mission, project scope, expected impact, and funding requirements."
+                    placeholder="Tell us about your organization, project, or inquiry. For grant proposals, please include details about your mission, project scope, expected impact, funding requirements, and confirm your 501(c)(3) tax-exempt status with EIN number."
                     value={formData.message}
                     onChange={(e) => handleInputChange("message", e.target.value)}
                     required

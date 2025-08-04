@@ -65,9 +65,9 @@ export const ImpactSection = () => {
                 Ready to Apply for a Grant?
               </h3>
               <p className="text-primary-foreground/90 text-lg leading-relaxed">
-                We welcome applications from qualified nonprofits and charitable organizations 
-                whose missions align with our core values. Submit your proposal today and 
-                join us in building a better tomorrow.
+                We welcome applications from qualified 501(c)(3) tax-exempt organizations 
+                whose missions align with our core values. Please include your IRS determination 
+                letter with your proposal submission to verify tax-exempt status.
               </p>
             </CardContent>
           </Card>

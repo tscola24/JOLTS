@@ -69,6 +69,7 @@ export const HeroSection = () => {
             >
               Submit Grant Proposal
             </Button>
+            <p className="text-sm text-white/80 mt-2">501(c)(3) organizations only</p>
             <Button 
               variant="outline" 
               size="lg" 

@@ -49,9 +49,10 @@ export const MissionSection = () => {
             </p>
             <p className="text-lg md:text-xl leading-relaxed text-muted-foreground mt-6">
               Through strategic and impactful charitable giving, we aim to make a positive and lasting 
-              difference in communities around the globe. We invite charities and nonprofit organizations 
+              difference in communities around the globe. We invite qualified 501(c)(3) tax-exempt organizations 
               to submit grant proposals that demonstrate a clear commitment to creating a sustainable 
-              and equitable future for all.
+              and equitable future for all. All grant recipients must provide current IRS determination 
+              letters confirming their tax-exempt status.
             </p>
             <p className="text-xl font-semibold text-primary mt-8">
               Together, let's build a better world for generations to come.
