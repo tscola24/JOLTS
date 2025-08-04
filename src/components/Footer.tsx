@@ -26,10 +26,6 @@ export const Footer = () => {
                 <span>info@joltsfoundation.org</span>
               </div>
               <div className="flex items-center">
-                <Phone className="h-4 w-4 mr-3 text-primary" />
-                <span>+1 (555) 123-4567</span>
-              </div>
-              <div className="flex items-center">
                 <MapPin className="h-4 w-4 mr-3 text-primary" />
                 <span>Building Communities Worldwide</span>
               </div>
