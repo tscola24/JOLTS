@@ -64,7 +64,7 @@ ${formData.message}
               <Mail className="h-8 w-8 text-primary mr-3" />
               <h2 className="text-4xl font-bold text-foreground">Get in Touch</h2>
             </div>
-            <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
+            <p className="text-xl text-foreground max-w-2xl mx-auto">
               Ready to make a difference? Contact us to learn more about grant opportunities 
               for qualified 501(c)(3) tax-exempt organizations or to discuss how we can support your mission.
             </p>
