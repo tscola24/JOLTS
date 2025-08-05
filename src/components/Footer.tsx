@@ -23,7 +23,7 @@ export const Footer = () => {
             <div className="space-y-3 text-muted-foreground">
               <div className="flex items-center">
                 <Mail className="h-4 w-4 mr-3 text-primary" />
-                <span>info@joltsfoundation.org</span>
+                <span>stephanie@joltsfoundation.org</span>
               </div>
               <div className="flex items-center">
                 <MapPin className="h-4 w-4 mr-3 text-primary" />
