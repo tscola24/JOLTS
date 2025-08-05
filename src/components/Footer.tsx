@@ -13,9 +13,9 @@ export const Footer = () => {
             </div>
             <p className="text-muted-foreground leading-relaxed">
               Empowering future generations 
-              with technology to lead healthy, 
+              <br>with technology to lead healthy, 
               purposeful lives while protecting 
-              and preserving our planet
+              <br>and preserving our planet
             </p>
           </div>
 
