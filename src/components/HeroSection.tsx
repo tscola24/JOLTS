@@ -39,7 +39,7 @@ export const HeroSection = () => {
 
           {/* Mission Statement */}
           <p className="text-xl md:text-2xl mb-8 leading-relaxed text-white/90 font-light">
-            Empowering future generations to lead healthy, purposeful lives 
+            Empowering future generations with technology to lead healthy, purposeful lives 
             while protecting and preserving our planet
           </p>
 
