@@ -12,8 +12,8 @@ export const Footer = () => {
               <h3 className="text-2xl font-bold text-foreground">JOLTS Foundation</h3>
             </div>
             <p className="text-muted-foreground leading-relaxed">
-              Empowering future generations while protecting our planet through 
-              strategic charitable giving and community support.
+              Empowering future generations with technology to lead healthy, 
+              purposeful lives while protecting and preserving our planet
             </p>
           </div>
 
