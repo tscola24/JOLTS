@@ -37,7 +37,7 @@ Message:
 ${formData.message}
     `;
     
-    const mailtoLink = `mailto:info@joltsfoundation.org?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    const mailtoLink = `mailto:stephanie@joltsfoundation.org?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     window.location.href = mailtoLink;
     
     toast({
